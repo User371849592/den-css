@@ -96,7 +96,7 @@ color: #000;
 }
  
 .col-md-9.col-xs-12 {
-background: url('https://wallpapercave.com/wp/wp7420817.jpg') center center fixed !important;
+background: url("https://imgur.com/9cgxZZK") center center fixed !important;
 border: 2px solid #fffff !important;}
  
 .progress-bar {
